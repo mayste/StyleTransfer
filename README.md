@@ -1,9 +1,9 @@
 # Image style transfer
 This is an implementation of image style transfer by using CNN with Tensorflow.
 
-The system extract content and style from an image and combined them together in order to get an artistic image by using neural network. The code written in python3 with PyQt5 for the Gui and worked on pre-trained network with tensorflow.
+The system extracts content and style from an image and combined them together in order to get an artistic image by using a neural network. The code is written in python3 with PyQt5 for the Gui and worked on a pre-trained network with TensorFlow.
 
-This is a collage project that based on J. Johnson paper and Leon A. Gatys paper, you can find our full project paper on this repository.
+This is a collage project based on J. Johnson paper and Leon A. Gatys' paper, you can find our full project paper on this repository.
 
 For using the application you can or download stylemaker.exe and run it on any machine, or run the python code on python3 environment.
 ### NOTE: Please wait, the app takes a few seconds to open. 
